@@ -1,4 +1,5 @@
 First we have to download the vscode and git bash.
+Open VS code :
 Then click on file->preferences->settings->go to features->terminal->go to edit settings.json->and copy below code of git bash one
 // Command Prompt
 "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
